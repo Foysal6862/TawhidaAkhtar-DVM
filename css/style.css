@@ -1,0 +1,13 @@
+.portfolio{
+    background-color: #8B8279;
+}
+.carousel img {
+    max-height: 430px;
+    margin: 0 auto;
+}
+#projects{
+    background-color: #E0DAD3;
+}
+.contact{
+    background-color: #E0DAD3;
+}
